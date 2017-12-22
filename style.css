@@ -1,0 +1,29 @@
+/* -- Google Fonts -- */
+
+@import url();
+
+
+body {
+	background-color: blue;
+}
+
+/* -- Components Design -- */
+
+@import url(components/navbar.css);
+@import url(components/banner.css);
+
+/*@import url(components/banner.css);*/
+
+
+
+
+/* -- Fonts -- */
+
+body {
+	font-family: ;
+}
+
+h1, h2, h3 {
+
+	font-family: ;
+}
