@@ -1,25 +1,52 @@
 .banner {
   color: white;
   text-align: center;
-  height: 75vh;
+  height: 100vh;
   /* if you have a 70px navbar => height: calc(100vh - 70px); */
   background-size: cover !important;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("images/banner_I.jpg")
+  /*background: radial-gradient(ellipse at center, rgba(10,0,0,0.7) 0%, rgba(255,252,232,0.2) 100%), url("../images/banner.jpg"); -webkit-filter: sepia(1); filter: sepia(1);-webkit-filter: grayscale(1); filter: grayscale(1);*/
+  margin-top: -5vh;
+  position: relative;
+  z-index: 0;
+}
 
 
+.logo {
+  max-width: 20%;
+  
+
 }
-.banner h1 {
-  font-size: 50px;
-  font-weight: bold;
-  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+
+.banner-content {
+  margin-top: -5%;
 }
-.banner p {
-  font-size: 25px;
-  font-weight: lighter;
-  color: rgb(255, 255, 255);
-  opacity: 0.6;
-  margin-bottom: 30px;
+
+.btn-outline-secondary {
+  border-color: #F4E8D7 !important;
+  color: #F4E8D7 !important;
+}
+
+.btn-outline-secondary:hover {
+  color: #AE462B !important;
+  border-color: #AE462B !important;
+  background-color: transparent;
+}
+
+.banner-content p {
+  line-height: 4em;
+  letter-spacing: 3px;
+  margin-bottom: 2.5%;
+  font-size: .80em;
+  }
+
+.caps {
+  text-transform: uppercase;
+}
+
+
+.small-p {
+  font-size: 0.5em;
 }

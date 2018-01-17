@@ -1,0 +1,29 @@
+.card-blockquote {
+	padding: 10%;
+}
+
+.strap {
+	display: flex;
+	margin-top: -10%;
+
+	padding-bottom: 5%;
+	position: relative;
+	z-index: 2;
+
+	justify-content:space-around;
+	align-items:center;
+	
+}
+
+.strap img {
+	position: relative;
+	background-image: cover;
+	/*right: 150px;*/
+	max-width: 30%;
+	display: block;
+	
+}
+
+.the-facts {
+	margin-bottom: 5%;
+}
