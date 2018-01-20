@@ -1,5 +1,5 @@
 .card-img-top {
-  
+
   background-size: cover;
   background-position: center;
 justify-content: space-around;
@@ -15,18 +15,26 @@ justify-content: space-around;
   border-style: none;
   border-radius: 0;
   /*color: #5C6F93;*/
+  padding-top: 7%;
+  text-align: center;
 
-  
+
 }
 
+
+.card.what-we-do  {
+  color: #b9b8b8;
+
+}
 .container.what-we-do {
-  
+
   margin: 0 auto;
   margin-top: 5vh;
+
 
 }
 
 .card.what-we-do.card-four {
-  
+
   padding-bottom: 20%;
 }

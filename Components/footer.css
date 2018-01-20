@@ -1,16 +1,15 @@
 .footer {
-	
+
 	background-color: #F4E8D7;
 	padding: 5%;
+  text-align: center;
+  font-size: 2em;
 }
 
-
-.contact-links {
-	font-size: .75em;
-
+.footer a {
+  color: white;
 }
 
 .col-4.footer {
-	
 	text-align: center;
 }

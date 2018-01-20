@@ -15,13 +15,15 @@
 
 
 .logo {
-  max-width: 20%;
-  
-
+  max-width: 25%;
 }
 
 .banner-content {
   margin-top: -5%;
+}
+
+.banner h1 {
+  font-size: 4em;
 }
 
 .btn-outline-secondary {
@@ -50,3 +52,5 @@
 .small-p {
   font-size: 0.5em;
 }
+
+

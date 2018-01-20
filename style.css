@@ -58,3 +58,29 @@ a:hover {
 .grey {
 	color: #585757;
 }
+
+.blue {
+  color: #5C6F93;
+}
+
+.lt-grey {
+  color: #b9b8b8;
+}
+
+@media screen and (max-width: 480px) {
+    .banner h1 {
+    font-size: 3em;
+    }
+.banner .logo {
+  max-width: 50%;
+}
+
+#nav .nav {
+background-color: red;
+position: relative;
+margin: 0 auto !important;
+}
+
+
+
+}

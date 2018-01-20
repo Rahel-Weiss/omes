@@ -12,7 +12,16 @@
 
 	justify-content:space-around;
 	align-items:center;
-	
+
+}
+
+
+.card-outline-secondary {
+
+background-image: url('./images/OMES_Pattern_02.jpg');
+
+background-color: #AE462B;
+color: white;
 }
 
 .strap img {
@@ -21,9 +30,9 @@
 	/*right: 150px;*/
 	max-width: 30%;
 	display: block;
-	
+
 }
 
 .the-facts {
-	margin-bottom: 5%;
+	padding-bottom: 5%;
 }
