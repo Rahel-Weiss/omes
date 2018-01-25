@@ -82,6 +82,9 @@ position: relative;
 margin: 0 auto !important;
 }
 
-
+.card-blockquote {
+  font-size: 0.8em;
+  height: 40vh;
+}
 
 }

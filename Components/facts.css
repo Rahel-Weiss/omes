@@ -1,6 +1,8 @@
 .card-blockquote {
-	padding: 10% 10% 20% 10%;
-  height: 35vh;
+	padding: 10% 10% 35% 10%;
+height: 35vh;
+
+
 
 
 }
@@ -39,5 +41,6 @@ color: white;
 .the-facts {
   margin-top: 5%;
 margin-bottom: 10%;
+
 
 }

@@ -63,14 +63,18 @@ margin-bottom: 10%;
 .btn-outline-secondary.phone {
   color: #b9b8b8 !important;
   border-color: #b9b8b8 !important;
-  font-size: 0.8em;
-
+  font-size: 0.7em;
+  padding-top: 2.5%;
 }
+
+
 .btn-outline-secondary.email {
 
   color:  #b9b8b8 !important;
   border-color:  #b9b8b8 !important;
   font-size: 0.8em;
+  margin-right: 5%;
+  padding-top: 2.5%;
 }
 
 
@@ -97,4 +101,8 @@ margin-bottom: 10%;
 #bio {
 line-height: 2em;
   padding-bottom: 10%;
+}
+
+.buttons-row {
+
 }
