@@ -61,15 +61,15 @@ margin-bottom: 10%;
 }
 
 .btn-outline-secondary.phone {
-  color: white !important;
-  border-color: white !important;
+  color: #b9b8b8 !important;
+  border-color: #b9b8b8 !important;
   font-size: 0.8em;
 
 }
 .btn-outline-secondary.email {
 
-  color: white !important;
-  border-color:  white !important;
+  color:  #b9b8b8 !important;
+  border-color:  #b9b8b8 !important;
   font-size: 0.8em;
 }
 
@@ -83,7 +83,7 @@ margin-bottom: 10%;
 
 .white {
 	color: white !important;
-	border-color: #fff !important;
+	border-color: color: #b9b8b8 !important;
 }
 
 
@@ -92,4 +92,9 @@ margin-bottom: 10%;
   border-color: #AE462B !important;
   background-color: transparent;
   font-size: 0.8em;
+}
 
+#bio {
+line-height: 2em;
+  padding-bottom: 10%;
+}
