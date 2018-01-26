@@ -1,7 +1,3 @@
-.card-blockquote {
-	padding: 10% 10% 35% 10%;
-height: 35vh;
-}
 
 .strap {
 	display: flex;
@@ -13,9 +9,22 @@ height: 35vh;
 
 	justify-content:space-around;
 	align-items:center;
+}
+
+.strap img {
+  position: relative;
+  background-image: cover;
+  /*right: 150px;*/
+  max-width: 30%;
+  display: block;
 
 }
 
+
+.card-blockquote {
+  padding: 10% 10% 35% 10%;
+  height: 35vh;
+}
 
 .card-outline-secondary {
 
@@ -25,14 +34,7 @@ background-color: #AE462B;
 color: white;
 }
 
-.strap img {
-	position: relative;
-	background-image: cover;
-	/*right: 150px;*/
-	max-width: 30%;
-	display: block;
 
-}
 
 .the-facts {
   margin-top: 5%;
