@@ -2,7 +2,7 @@
 
   background-size: cover;
   background-position: center;
-justify-content: space-around;
+  justify-content: space-around;
 }
 
 
@@ -17,10 +17,7 @@ justify-content: space-around;
   /*color: #5C6F93;*/
   padding-top: 7%;
   text-align: center;
-
-
 }
-
 
 .card.what-we-do  {
   color: #b9b8b8;
@@ -33,6 +30,8 @@ justify-content: space-around;
 
 
 }
+
+
 
 .card.what-we-do.card-four {
 

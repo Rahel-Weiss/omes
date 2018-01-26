@@ -26,16 +26,8 @@
   font-size: 4em;
 }
 
-.btn-outline-secondary {
-  border-color: #F4E8D7 !important;
-  color: #F4E8D7 !important;
-}
 
-.btn-outline-secondary:hover {
-  color: #AE462B !important;
-  border-color: #AE462B !important;
-  background-color: transparent;
-}
+
 
 .banner-content p {
   line-height: 4em;
