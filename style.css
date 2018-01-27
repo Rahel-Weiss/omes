@@ -55,7 +55,7 @@ a:hover {
 
 .btn-outline-secondary {
   border-color: #b9b8b8 !important;
-  color: #b9b8b8 !important;
+  color: #b9b8b8 !important;;
 }
 
 
@@ -97,9 +97,10 @@ position: relative;
 margin: 0 auto !important;
 }
 
-.card-blockquote {
+.card-outline-secondary {
   font-size: 0.8em;
-  height: 40vh;
+  padding: 10% 10% 35% 10%;
+
 }
 
 }
