@@ -7,14 +7,14 @@
 
 /* -- Components Design -- */
 
-@import url(Components/navbar.css);
-@import url(Components/banner.css);
-@import url(Components/nav.css);
-@import url(Components/grid.css);
-@import url(Components/facts.css);
-@import url(Components/partners.css);
-@import url(Components/talk-dirt.css);
-@import url(Components/footer.css);
+@import url("Components/navbar.css");
+@import url("Components/banner.css");
+@import url("Components/nav.css");
+@import url("Components/grid.css");
+@import url("Components/facts.css");
+@import url("Components/partners.css");
+@import url("Components/talk-dirt.css");
+@import url("Components/footer.css");
 
 
 /* -- Fonts -- */
