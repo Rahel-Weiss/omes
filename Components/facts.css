@@ -1,12 +1,9 @@
-
 .strap {
 	display: flex;
 	margin-top: -10%;
-
 	padding-bottom: 5%;
 	position: relative;
 	z-index: 2;
-
 	justify-content:space-around;
 	align-items:center;
 }
@@ -14,12 +11,9 @@
 .strap img {
   position: relative;
   background-image: cover;
-  /*right: 150px;*/
   max-width: 30%;
   display: block;
-
 }
-
 
 .card-blockquote {
   padding: 10% 10% 25% 10%;
@@ -27,18 +21,12 @@
 }
 
 .card-outline-secondary {
-
-background-image: url('./images/OMES_Pattern_02.jpg');
-
-background-color: #AE462B;
-color: white;
+  background-image: url('./images/OMES_Pattern_02.jpg');
+  background-color: #AE462B;
+  color: white;
 }
-
-
 
 .the-facts {
   margin-top: 5%;
-margin-bottom: 10%;
-
-
+  margin-bottom: 10%;
 }

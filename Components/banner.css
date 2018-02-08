@@ -2,17 +2,14 @@
   color: white;
   text-align: center;
   height: 100vh;
-  /* if you have a 70px navbar => height: calc(100vh - 70px); */
   background-size: cover !important;
   display: flex;
   align-items: center;
   justify-content: center;
-  /*background: radial-gradient(ellipse at center, rgba(10,0,0,0.7) 0%, rgba(255,252,232,0.2) 100%), url("../images/banner.jpg"); -webkit-filter: sepia(1); filter: sepia(1);-webkit-filter: grayscale(1); filter: grayscale(1);*/
   margin-top: -5vh;
   position: relative;
   z-index: 0;
 }
-
 
 .logo {
   max-width: 25%;
@@ -26,21 +23,17 @@
   font-size: 4em;
 }
 
-
 .banner-content p {
   line-height: 4em;
   letter-spacing: 3px;
   margin-bottom: 2.5%;
   font-size: .80em;
-  }
+}
 
 .caps {
   text-transform: uppercase;
 }
 
-
 .small-p {
   font-size: 0.5em;
 }
-
-

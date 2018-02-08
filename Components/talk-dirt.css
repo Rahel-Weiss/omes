@@ -1,60 +1,42 @@
-
-
 .talk-dirt {
 	background-color: #F4E8D7;
-	/*display: flex;*/
-	/*align-items: center;*/
-	/*justify-content: space-between;*/
 	padding-top: 10%;
 	text-align: center;
 }
 
-
 .row.team-members {
-
-margin: 10% 5% 10% 5%;
-
+  margin: 10% 5% 10% 5%;
 }
-
 
 .col.team-member {
 	min-width: 35%;
-
 }
 
 .team  {
-max-width: 75%;
-border-radius: 300px;
-margin-bottom: 10%;
-
+  max-width: 75%;
+  border-radius: 300px;
+  margin-bottom: 10%;
 }
-
-
 
 .form {
 	margin-top: 10%;
 	text-align: center;
 	margin-bottom: 10%;
-
-
 }
 
 .submit {
 	margin-top: 10%;
-
 }
 
 .col-form-label-sm {
 	text-align: center;
 	background-color: #fff;
 	margin-top: 5%;
-
 }
 
 .btn-outline-secondary.phone {
   font-size: 0.8em;
   width: 200px;
-
 }
 
 .btn-outline-secondary.email {
@@ -65,45 +47,6 @@ margin-bottom: 10%;
   margin: 2.5%;
 }
 
-/*
-.btn-outline-secondary.phone {
-  color: #b9b8b8 !important;
-  border-color: #b9b8b8 !important;
-  font-size: 0.7em;
-  padding-top: 2%;
-}*/
-
-
-/*.btn-outline-secondary.email {
-
-  color:  #b9b8b8 !important;
-  border-color:  #b9b8b8 !important;
-  font-size: 0.8em;
-  margin-right: 5%;
-  padding-top: 2%;
-}
-
-
-.btn-outline-secondary:hover {
-  color: #AE462B !important;
-  border-color: #AE462B !important;
-  background-color: transparent;
-  font-size: 0.8em;
-}
-
-.white {
-	color: white !important;
-	border-color: color: #b9b8b8 !important;
-}
-
-
-.btn-outline-secondary:hover {
-  color: #AE462B !important;
-  border-color: #AE462B !important;
-  background-color: transparent;
-  font-size: 0.8em;
-}*/
-
 #bio {
   line-height: 2em;
   padding-bottom: 10%;
@@ -111,9 +54,4 @@ margin-bottom: 10%;
 
 .bio-text {
   padding: 0 5% 0 5%;
-}
-
-.buttons-row {
-
-
 }

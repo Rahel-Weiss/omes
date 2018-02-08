@@ -4,7 +4,6 @@
   align-items: end;
   padding-right: 10%;
   padding-top: 2%;
-
 }
 
 .nav-link  {
@@ -18,7 +17,6 @@
 #nav {
 	position: relative;
   z-index: 10;
-
 }
 
 #contact:hover {
