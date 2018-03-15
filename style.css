@@ -8,6 +8,7 @@
 @import url("Components/partners.css");
 @import url("Components/talk-dirt.css");
 @import url("Components/footer.css");
+@import url("Components/value-prop.css");
 
 /* -- Fonts -- */
 
@@ -45,7 +46,11 @@ a:hover {
 
 .btn-outline-secondary {
   border-color: #b9b8b8 !important;
-  color: #b9b8b8 !important;;
+  color: #b9b8b8 !important;
+  line-height: 1;
+  letter-spacing: 0.5;
+  padding: 10px;
+
 }
 
 .red {
@@ -72,6 +77,14 @@ a:hover {
   color: #b9b8b8;
 }
 
+.green {
+  color: #BBD1BD;
+}
+
+.cream {
+  color: #F1EADB;
+}
+
 @media screen and (max-width: 480px) {
 
     .banner h1 {
@@ -90,7 +103,6 @@ a:hover {
 
   .card-outline-secondary {
     font-size: 0.8em;
-    padding: 10% 10% 35% 10%;
   }
 
 }

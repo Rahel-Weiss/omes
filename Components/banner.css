@@ -37,3 +37,13 @@
 .small-p {
   font-size: 0.5em;
 }
+
+#learn-more {
+  background-color: #AE462B !important;
+  color: #fff !important;
+  border: none;
+  font-weight: lighter;
+  padding: 15px 35px 15px 35px;
+  font-size: 14px;
+}
+
