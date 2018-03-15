@@ -1,14 +1,19 @@
 .footer {
-	background-color: #F4E8D7;
+	background-color: #585757;
 	padding: 5%;
   text-align: center;
   font-size: 2em;
 }
 
 .footer a {
-  color: #b9b8b8
+  color: #F1EADB;
 }
 
 .col-4.footer {
 	text-align: center;
+}
+
+.footer-text {
+  font-size: 0.5em;
+  line-height: 4em;
 }
