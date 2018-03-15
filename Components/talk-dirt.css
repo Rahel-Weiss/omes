@@ -1,11 +1,17 @@
 .talk-dirt {
-	background-color: #F4E8D7;
-	padding-top: 10%;
+	padding-top: 7%;
+  padding-bottom: 15%;
 	text-align: center;
 }
 
+.about-us {
+  background-color: #F4E8D7;
+  padding: 10% 5% 10% 5%;
+  text-align: center;
+}
+
 .row.team-members {
-  margin: 10% 5% 10% 5%;
+  margin: 10% 5% 5% 5%;
 }
 
 .col.team-member {
