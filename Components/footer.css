@@ -1,8 +1,9 @@
 .footer {
 	background-color: #585757;
-	padding: 5%;
   text-align: center;
   font-size: 2em;
+  height: 10%;
+  padding-top: 45px;
 }
 
 .footer a {
