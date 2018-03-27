@@ -1,7 +1,6 @@
 .talk-dirt {
 	padding-top: 7%;
   padding-bottom: 15%;
-	text-align: center;
 }
 
 .about-us {
@@ -41,16 +40,18 @@
 }
 
 .phone {
-  font-size: 0.8em;
+  font-size: 0.6em;
   width: 300px;
   padding-top: 12px;
   margin: 1%;
+  max-width: 100%;
 }
 
 .email {
   width: 300px;
-  font-size: 1em;
+  font-size: 0.8em;
   margin: 1%;
+  max-width: 100%;
 }
 
 #bio {
@@ -60,4 +61,5 @@
 
 .bio-text {
   padding: 0 5% 0 5%;
+  text-align: left;
 }

@@ -30,4 +30,18 @@ $(document).ready(function() {
 
   })
 
+  // Scroll Reveal
+
+  window.sr = ScrollReveal();
+  sr.reveal('.icon');
+  sr.reveal('.card-text', { delay: 400 });
+  sr.reveal('.team');
+  sr.reveal('.business-logo');
+  sr.reveal('.v-p');
+  sr.reveal('.logo', {  delay: 400, duration: 3000, distance: '0px' });
+  sr.reveal('.phone', {  delay: 400});
+  sr.reveal('.email');
+
+ 
+
   });

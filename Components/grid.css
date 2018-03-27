@@ -29,14 +29,20 @@
 }
 
 .heading-box {
-  line-height: 4;
+  line-height: 2;
   margin-top: 10%;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
+  text-align: left;
+  margin-left: 15%;
 }
 
 
 .icon {
- width: 40%;
+ width: 50%;
  margin-top: 5%;
  margin-bottom: 5%;
+}
+
+.steps p {
+  text-align: left;
 }
