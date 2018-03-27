@@ -9,6 +9,7 @@
   margin-top: -5vh;
   position: relative;
   z-index: 0;
+  padding: 5%;
 }
 
 .logo {
@@ -39,10 +40,6 @@
 }
 
 #learn-more {
-  background-color: #AE462B !important;
-  color: #fff !important;
-  border: none;
-  font-weight: lighter;
   padding: 15px 35px 15px 35px;
   font-size: 14px;
 }

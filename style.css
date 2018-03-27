@@ -13,15 +13,16 @@
 /* -- Fonts -- */
 
 body  {
-	font-family: 'Futura TGW', 'Futura-Medium', Futura, Helvetica, Arial, sans-serif;
-	font-weight: 100;
-  letter-spacing: 1.5px;
+	font-family: Avenir,Arial,sans-serif;
   color: #585757;
-  line-height: 1.7em;
+  line-height: 1.5;
+  letter-spacing: 0.1em;
+  font-size: 1.125rem;
+  font-weight: 400;
 }
 
-h1, h2, h3, h4 {
-	font-family: 'Futura TGW', 'Futura-Medium', Futura, Helvetica, Arial, sans-serif;
+h1, h2, h3, {
+	font-family: Gotham, Helvetica, Arial, sans-serif;
   letter-spacing: 1.5px;
 }
 
@@ -42,6 +43,7 @@ a:hover {
   color: #AE462B !important;
   border-color: #AE462B !important;
   background-color: transparent;
+  border-radius: 0;
 }
 
 .btn-outline-secondary {
@@ -50,6 +52,7 @@ a:hover {
   line-height: 1;
   letter-spacing: 0.5;
   padding: 10px;
+  border-radius: 0;
 
 }
 
