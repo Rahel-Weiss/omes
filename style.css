@@ -108,4 +108,17 @@ a:hover {
     font-size: 0.8em;
   }
 
+  .heading-box {
+    margin-left: 10%;
+    text-align: center;
+  }
+
+  .steps p {
+    text-align: center;
+  }
+
+  .icon {
+    width: 70%;
+  }
+
 }
