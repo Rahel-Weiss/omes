@@ -1,9 +1,9 @@
 $(document).ready(function() {
-  var $item = $('.carousel-item');
-  var $numberofSlides = $('.carousel-item').length;
-  var $currentSlide = Math.floor((Math.random() * $numberofSlides));
+  // var $item = $('.carousel-item');
+  // var $numberofSlides = $('.carousel-item').length;
+  // var $currentSlide = Math.floor((Math.random() * $numberofSlides));
 
-  $item.eq($currentSlide).addClass('active');
+  // $item.eq($currentSlide).addClass('active');
 
    var scrollLink = $('.scroll');
 // Smooth scrolling
@@ -37,7 +37,7 @@ $(document).ready(function() {
   sr.reveal('.card-text', { delay: 400 });
   sr.reveal('.team');
   sr.reveal('.business-logo');
-  sr.reveal('.v-p');
+  sr.reveal('.v-p', { delay: 500 } );
   sr.reveal('.logo', {  delay: 400, duration: 3000, distance: '0px' });
   sr.reveal('.phone', {  delay: 400});
   sr.reveal('.email');

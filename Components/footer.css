@@ -1,11 +1,14 @@
 .footer {
 	background-color: #585757;
   text-align: center;
-  font-size: 2em;
   height: 10%;
   padding-top: 45px;
 }
 
+.footer li {
+	display: inline;
+	text-decoration: none;
+}
 .footer a {
   color: #F1EADB;
 }
@@ -15,6 +18,6 @@
 }
 
 .footer-text {
-  font-size: 0.5em;
+  font-size: 14px;
   line-height: 4em;
 }

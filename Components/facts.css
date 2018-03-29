@@ -16,13 +16,11 @@
 }
 
 .card-blockquote {
-  padding: 10% 10% 10% 10%;
-
-  height: 35vh;
+  padding: 10% 10% 15% 10%;
+  height: 40vh;
 }
 
-.carousel-item {
-}
+
 
 .card-outline-secondary {
   background-image: url('./images/OMES_Pattern_02.jpg');

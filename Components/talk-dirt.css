@@ -1,16 +1,17 @@
 .talk-dirt {
-	padding-top: 7%;
-  padding-bottom: 15%;
+	padding: 7% 7% 15% 7%;
+
 }
 
 .about-us {
   background-color: #F4E8D7;
   padding: 10% 5% 10% 5%;
-  text-align: center;
+  
 }
 
 .row.team-members {
-  margin: 10% 5% 5% 5%;
+  margin: 10% 5% 5% 0%;
+  text-align: center;
 }
 
 .col.team-member {
@@ -40,18 +41,21 @@
 }
 
 .phone {
-  font-size: 0.6em;
-  width: 300px;
+  font-size: 0.7em;
+  width: 200px;
   padding-top: 12px;
   margin: 1%;
   max-width: 100%;
+  
 }
 
 .email {
-  width: 300px;
+  width: 200px;
   font-size: 0.8em;
   margin: 1%;
   max-width: 100%;
+  
+
 }
 
 #bio {
@@ -60,6 +64,5 @@
 }
 
 .bio-text {
-  padding: 0 5% 0 5%;
   text-align: left;
 }

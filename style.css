@@ -12,13 +12,13 @@
 
 /* -- Fonts -- */
 
-body  {
+body h5 {
 	font-family: "Avenir Next", Verdana, Geneva, sans-serif
   color: #585757;
-  line-height: 1.5;
+  line-height: 2;
   letter-spacing: 0.1em;
   font-size: 1.125rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 
 h1, h2, h3, {
@@ -47,12 +47,13 @@ a:hover {
 }
 
 .btn-outline-secondary {
-  border-color: #b9b8b8 !important;
-  color: #b9b8b8 !important;
+  border-color: #b9b8b8;
+  color: #b9b8b8 ;
   line-height: 1;
   letter-spacing: 0.5;
   padding: 10px;
   border-radius: 0;
+  border: 2px solid;
 
 }
 
