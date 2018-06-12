@@ -1,0 +1,50 @@
+.banner {
+  color: white;
+  background-color: #000;
+  text-align: center;
+  height: 100vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -5vh;
+  position: relative;
+  z-index: 0;
+  padding: 5%;
+  background-size: cover;
+  background-position: center;
+}
+
+.parallax-window {
+    background: transparent;
+}
+
+.logo {
+  max-width: 15%;
+  opacity: 0;
+  margin-bottom: 5%;
+}
+
+.banner-content {
+  margin-top: -5%;
+}
+
+.banner h1 {
+  font-size: 54px;
+}
+
+
+
+.caps {
+  text-transform: uppercase;
+}
+
+
+
+#learn-more {
+  padding: 15px 35px 15px 35px;
+  font-size: 14px;
+  color: #fff;
+  letter-spacing: 0.2em;
+}
+

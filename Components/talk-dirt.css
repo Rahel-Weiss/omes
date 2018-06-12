@@ -1,0 +1,51 @@
+
+
+.team  {
+  max-width: 180px;
+  border-radius: 300px;
+  padding: 5%;
+}
+
+
+#talk-dirt {
+  background-color: #4A4A4A;
+  padding: 10% 20%;
+  font-size: 16px;
+}
+
+#talk-dirt h5 {
+  color: #787878;
+  font-family: 'AvenirNextBold', 'helvetica',  sans-serif;
+  font-size: 18px;
+}
+
+.contact-box {
+  background-color: #EEEEEE;
+  padding: 10%;
+}
+
+
+.team-members {
+  text-align: center;
+
+}
+
+.contact-details {
+  padding-top: 2%
+}
+
+#talk-dirt a {
+color: #5C6F93;
+font-weight: 600;
+}
+
+.details {
+  border-top: solid 2px #787878;
+  padding: 10% 0%;
+  border-bottom: solid 2px #787878;
+  margin-bottom: 10%;
+}
+
+.phone-number {
+  font-size: 14px;
+}

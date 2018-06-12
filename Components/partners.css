@@ -1,0 +1,41 @@
+.business-logo {
+	max-width: 50%;
+}
+
+.circle {
+	border-radius: 100%;
+	background-color: #fff;
+	justify-content: center;
+  	align-items: center;
+	height: 100px;
+	width: 100px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-shrink: 0;
+}
+
+.partners {
+	background-color: #ECE9E7;
+	padding: 10% 20%;
+	color: #4A4A4A;
+}
+
+.logo-col {
+	display: flex;
+	margin-bottom: 5%;	
+}
+
+.testimonial-col {
+	margin-bottom: 5%;
+}
+
+.partners-row {
+	padding-top: 10%;
+	max-width: 500px;
+}
+
+
+
+
+

@@ -1,0 +1,222 @@
+/* -- Components Design -- */
+
+@import url("Components/navbar.css");
+@import url("Components/banner.css");
+@import url("Components/nav.css");
+@import url("Components/grid.css");
+@import url("Components/facts.css");
+@import url("Components/partners.css");
+@import url("Components/talk-dirt.css");
+@import url("Components/footer.css");
+@import url("Components/valueprop.css");
+@import url("Components/about-us.css");
+
+
+/* -- Fonts -- */
+
+@font-face {
+    font-family: 'AvenirNextBold';
+    src: url('font/AvenirNextLTPro-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AvenirNext';
+    src: url('font/AvenirNextLTPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+  font-family: 'AvenirNext', 'helvetica',  sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'AvenirNextBold', 'helvetica',  sans-serif;
+  font-weight: normal;
+}
+
+.caps {
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: 24px;
+  font-weight: lighter;
+  line-height: 1.5;
+}
+
+.bold {
+  font-family: 'AvenirNextBold', 'helvetica',  sans-serif;
+}
+
+/* -- Links -- */
+
+.box-link {
+  border: 2px solid #fff;
+  padding: 2% 5%;
+  font-size: 12px;
+  color: #fff;
+  background-color: transparent;
+  letter-spacing: 1px;
+  text-transform: uppercase; 
+}
+
+.box-link a {
+  color: #fff;
+}
+
+a:hover {
+	color: #AE462B ;
+	text-decoration: none;
+}
+
+
+.box-link:hover {
+  color: #AE462B !important;
+  border-color: #AE462B !important;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+.btn-outline-secondary {
+  border-color: #b9b8b8;
+  color: #b9b8b8 ;
+  padding: 10px;
+  border-radius: 0;
+  border: 2px solid;
+
+}
+
+/* -- Colours -- */
+
+.red {
+	color: #AE462B;
+}
+
+.white {
+	color: #fff;
+}
+
+.yellow {
+	color: #F7B258
+}
+
+.grey {
+	color: #4A4A4A;
+}
+
+.blue {
+  color: #5C6F93;
+}
+
+.lt-grey {
+  color: #ECE9E7;
+}
+
+.green {
+  color: #BBD1BD;
+}
+
+.cream {
+  color: #F1EADB;
+}
+
+@media screen and (max-width: 480px) {
+
+    .banner h1 {
+      font-size: 48px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  .banner .logo {
+    max-width: 50%;
+  }
+
+  .nav-link {
+    position: relative;
+    margin: 0 auto !important;
+  }
+
+  .heading-box {
+    margin-left: 10%;
+    text-align: center;
+  }
+
+  .steps p {
+    text-align: center;
+  }
+
+  .icon {
+    width: 50%;
+  }
+
+  .talk-dirt {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .row.team-members {
+    width: 100%;
+  }
+
+  #content-value-prop {
+    padding: 15% 10%;
+  }
+
+  .the-facts {
+    padding: 15% 10%;
+  }
+
+ .card.what-we-do {
+    padding: 15% 10%;
+  }
+
+  #talk-dirt {
+    padding: 15% 10%;
+  }
+
+  .partners {
+    text-align: center;
+    padding: 10% 15% 15% 15%;
+  }
+
+  .about-us {
+    padding: 15% 10%;
+  }
+
+  .circle {
+    width: 60px;
+    height: 60px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  .footer-text {
+    margin-top: 5%;
+  }
+
+  .footer {
+    padding-bottom: 10%;
+
+  }
+
+  .footer-logo {
+    margin-top: 40%;
+    width: 100px;
+  }
+
+  .why-is-composting-so-important {
+    padding: 15% 10%;
+
+  }
+}
+
+
+
