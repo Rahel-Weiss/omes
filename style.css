@@ -165,7 +165,7 @@ a:hover {
   }
 
   #content-value-prop {
-    padding: 15% 10%;
+    padding: 15% 5%;
   }
 
   .the-facts {
@@ -173,7 +173,11 @@ a:hover {
   }
 
  .card.what-we-do {
-    padding: 15% 10%;
+    padding: 10% 10%;
+  }
+
+  .card-outline-secondary {
+  	height: 80vh;
   }
 
   #talk-dirt {
