@@ -4,12 +4,9 @@
   background-color: #ECE9E7;
 }
 
-
-
 .the-facts h1 {
   margin-bottom: 10%;
 }
-
 
 .caousel-item {
 
@@ -28,8 +25,6 @@ right: 0;
 margin: auto;
 }
 
-
-
 .title {
   margin-bottom: 20px; 
 }
@@ -37,10 +32,7 @@ margin: auto;
 .underlined {
   display: inline-block;
   border-bottom: 5px solid #fff;
-  
-
 }
-
 
 .card-outline-secondary {
   background-color: transparent;
@@ -48,8 +40,6 @@ margin: auto;
   border: 0px !important;
   height: 50vh;
 }
-
-
 
 .mb-3 {
   margin-bottom: 0rem!important;

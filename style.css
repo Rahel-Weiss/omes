@@ -34,7 +34,7 @@ p {
   letter-spacing: 0.5px;
 }
 
-h1, h2, h3, h4 {
+h1, h3, h4 {
   font-family: 'AvenirNextBold', 'helvetica',  sans-serif;
   font-weight: normal;
 }
@@ -178,12 +178,15 @@ a:hover {
   }
 
  .card.what-we-do {
-    padding: 10% 10%;
+    padding: 7.5% 10% 0% 10%;
   }
+
+  .card-text {
+	padding-top: 5%;
+}
 
   .card-outline-secondary {
   	min-height: 80vh;
-  	color: red;
   }
 
   #talk-dirt {
