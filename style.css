@@ -137,6 +137,11 @@ a:hover {
     max-width: 50%;
   }
 
+  #nav {
+  	justify-content: center !important;
+  	padding-right: 0;
+  }
+
   .nav-link {
     position: relative;
     margin: 0 auto !important;
@@ -183,6 +188,10 @@ a:hover {
 
   #talk-dirt {
     padding: 15% 10%;
+  }
+
+  .email {
+  	font-size: 15px;
   }
 
   .partners {

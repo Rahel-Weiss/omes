@@ -57,3 +57,7 @@
 .steps p {
   text-align: left;
 }
+
+.card.what-we-do:first-child {
+	padding-bottom: 0;
+}
