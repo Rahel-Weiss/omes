@@ -178,6 +178,7 @@ a:hover {
 
   .card-outline-secondary {
   	min-height: 80vh;
+  	color: red;
   }
 
   #talk-dirt {
