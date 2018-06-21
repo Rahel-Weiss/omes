@@ -3,7 +3,7 @@ $(document).ready(function() {
   $('.logo').delay(200).animate({'opacity':'1'},400);
 
   $(window).scroll(function(){
-        $(".banner-content").delay(500).css("opacity", 1 - $(window).scrollTop() / $('.banner-content').height());
+        $(".banner-content").delay(500).css("opacity", 1 - $(window).scrollTop() / ($('.banner').outerHeight()/2), "width", 5%);
     });
 
   
